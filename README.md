@@ -21,5 +21,4 @@ I was able to grasp a better understanding of how DNS translates domain names in
 - Windows
 
 ### DNS ANALYSIS SCREENSHOT
-![DNS Traffic Analysis](dns%analysis.ping)
-
+![DNS Traffic Analysis](dns%20analysis.png)
