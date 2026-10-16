@@ -19,3 +19,7 @@ I was able to grasp a better understanding of how DNS translates domain names in
 ## Tools used 
 - Wireshark
 - Windows
+
+### DNS ANALYSIS SCREENSHOT
+![DNS Traffic Analysis](dns%analysis.ping)
+
